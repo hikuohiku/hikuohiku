@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=taniiicom)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=atotti)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **hikuohiku/hikuohiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
